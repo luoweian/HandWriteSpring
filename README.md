@@ -3,6 +3,7 @@
 内容包括一个Bean的生命的创建
 
 包含注解：
+
 @ComponentScan
 
 @Component
