@@ -6,7 +6,7 @@ import com.spring.Component;
 @Component
 public class OrderService {
 //    @Autowired
-//    private UserService userService;
+//    private UserServiceImpl userService;
 
 
 }
